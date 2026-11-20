@@ -1,0 +1,6 @@
+# Versiones con las que se ejecutó y verificó el código (Python 3.12)
+gymnasium>=1.0
+numpy>=1.26
+matplotlib>=3.8
+# Solo si vas a ejecutar el cuaderno .ipynb en local:
+jupyter
